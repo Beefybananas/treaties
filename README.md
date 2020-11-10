@@ -24,6 +24,7 @@ To-Do:
   - 1860-1869  
   - 1870-1879  
   - 1880-Present  
+* Fix mistakes from mis-reading treaties
 * More detail on borders
 * Stand-alone image (svg?)
 
